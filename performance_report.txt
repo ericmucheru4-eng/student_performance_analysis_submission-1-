@@ -1,0 +1,79 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+========================================
+
+Student ID: 25/222
+Name: Sandra Mutegi
+Programme: MDS
+Subject marks: Math: 75, English: 80, Science: 70
+Average score: 75.00%
+Grade: B
+Student type: AIU Student
+Scholarship eligibility: Not assessed for this student type
+----------------------------------------
+
+Student ID: 25/224
+Name: Carlos Ndunda
+Programme: MDS
+Subject marks: Math: 90, English: 85, Science: 88
+Average score: 87.67%
+Grade: A
+Student type: Scholarship Student (eligible)
+Scholarship eligible (average >= 85): Yes
+Scholarship amount listed: KSh 50,000.00
+----------------------------------------
+
+Student ID: 25/226
+Name: Paul Omboga
+Programme: MDA
+Subject marks: Math: 60, English: 65, Science: 58
+Average score: 61.00%
+Grade: C
+Student type: AIU Student
+Scholarship eligibility: Not assessed for this student type
+----------------------------------------
+
+Student ID: 25/228
+Name: Ruth Mwimali
+Programme: MDA
+Subject marks: Math: 95, English: 92, Science: 90
+Average score: 92.33%
+Grade: A
+Student type: Scholarship Student (eligible)
+Scholarship eligible (average >= 85): Yes
+Scholarship amount listed: KSh 50,000.00
+----------------------------------------
+
+Student ID: 25/230
+Name: Amina Wanjiku
+Programme: MDS
+Subject marks: Math: 82, English: 86, Science: 84
+Average score: 84.00%
+Grade: A
+Student type: AIU Student
+Scholarship eligibility: Not assessed for this student type
+----------------------------------------
+
+Student ID: 25/232
+Name: Brian Otieno
+Programme: MDA
+Subject marks: Math: 78, English: 72, Science: 80
+Average score: 76.67%
+Grade: B
+Student type: AIU Student
+Scholarship eligibility: Not assessed for this student type
+----------------------------------------
+
+CLASS PERFORMANCE SUMMARY
+========================================
+Highest average: Ruth Mwimali (92.33%)
+Lowest average: Paul Omboga (61.00%)
+Overall class average: 79.44%
+
+POLYMORPHISM DEMONSTRATION
+========================================
+Sandra Mutegi is an AIU Student.
+Carlos Ndunda qualifies for scholarship consideration; listed amount: KSh 50,000.00.
+Paul Omboga is an AIU Student.
+Ruth Mwimali qualifies for scholarship consideration; listed amount: KSh 50,000.00.
+Amina Wanjiku is an AIU Student.
+Brian Otieno is an AIU Student.
